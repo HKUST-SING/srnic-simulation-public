@@ -1,0 +1,7 @@
+simulation/.waf-*
+simulation/build/*
+simulation/.lock*
+.vscode/
+**/compile_commands.json
+**/*.pyc
+simulation/outputs/*
